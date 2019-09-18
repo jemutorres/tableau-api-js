@@ -1,0 +1,12 @@
+{
+  "name": "tableau-api-js",
+  "version": "2.2.2.1",
+  "description": "A version of the JS API for Tableau wrapped as an NPM module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jemutorres/tableau-api-js.git"
+  },
+  "author": "jemutorres",
+  "license": "MIT"
+}
