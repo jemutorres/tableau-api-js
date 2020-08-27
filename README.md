@@ -1,6 +1,6 @@
 # Tableau API JS
 
-A version of the [JS API for Tableau](http://www.tableau.com/new-features/javascript-api) wrapped as an NPM module.
+A version of the [JS API for Tableau](https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api.htm) wrapped as an NPM module.
 
 ## Node.js (Install)
 
