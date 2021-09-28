@@ -56,4 +56,9 @@ app.component.html:
 
 This will provide you with the most up-to-date functionality in the API.
 
+## Using a JS library in a TS project
+
+To use the library (without type declarations) in a TypeScript project follow the steps in [the following post](https://medium.com/@steveruiz/using-a-javascript-library-without-type-declarations-in-a-typescript-project-3643490015f3)
+
+
 More details in [the API documentation](http://onlinehelp.tableau.com/current/api/js_api/en-us/help.htm)
